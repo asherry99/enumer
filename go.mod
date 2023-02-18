@@ -1,4 +1,4 @@
-module github.com/dmarkham/enumer
+module github.com/asherry99/enumer
 
 require (
 	github.com/pascaldekloe/name v1.0.0
